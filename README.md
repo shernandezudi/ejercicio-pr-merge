@@ -1,5 +1,5 @@
-Titulo
-Descripcion breve
+Titulo: "Completar reglas del equipo" 
+Descripcion breve: Explica brevemente que se combió 
 Lista con "Reglas del equipo" (3 items numerados vacios por completar)
 
 Ejemplo
@@ -8,12 +8,12 @@ Ejemplo
 #Ejercicio: Pull Request y Merge
 
 ##Descripcion breve
-(pendiente de mejorar)
+Explica brevemente que se cambió 
 
 ## Reglas del equipo
--
--
--
+- "Comunicar cambios"
+- "Usar títulos claros"
+- "Revisar PRs en 24h"
 -
 
 ---------------------------------------------
